@@ -4,8 +4,8 @@ This project is all about how to build a pipeline that can be used within a web 
 
 ## KEYWORDS:
 
-### Neural Network From Scratch
-### Transfer Learning
-### PyTorch
+##### Neural Network From Scratch
+##### Transfer Learning
+##### PyTorch
 
 
